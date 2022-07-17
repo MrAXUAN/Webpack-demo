@@ -5,8 +5,8 @@
 
 ## 使用方法
 你可以在命令行中输入
-'''bash
+```bash
 git clone https://github.com/MrAXuan/Webpack-demo.git
-'''
+```
 用于从 GitHub 克隆 Webpack-demo
 然后你就可以展开学习了！
